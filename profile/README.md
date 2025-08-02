@@ -5,7 +5,6 @@ ROOT_PWD="abcdeghi"
 PEPPER="123456789"
 JWT_SECRET="redondi"
 APP_DOMAIN="mysagra.fun"
-APP_NAME="MySagra"
 ```
 ## 2 - Create Docker Compose
 ```yaml
